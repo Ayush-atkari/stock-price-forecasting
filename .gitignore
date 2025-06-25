@@ -1,0 +1,13 @@
+projenv/
+nifty50_data.csv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+*.env
+.ipynb_checkpoints/

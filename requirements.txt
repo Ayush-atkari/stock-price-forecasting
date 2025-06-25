@@ -1,0 +1,18 @@
+# Core packages
+numpy==1.24.3
+pandas==1.5.3
+
+# Plotting & visualization
+matplotlib==3.7.1
+plotly==5.16.1
+
+# Yahoo Finance data
+yfinance==0.2.36
+
+# Deep learning
+tensorflow==2.13.0
+
+# Optional (for hybrid model development or future features)
+scikit-learn==1.2.2
+PyEMD==1.2.0               # For EMD/CEEMD decomposition
+ipykernel==6.25.2          # For linking Jupyter to custom envs
